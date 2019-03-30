@@ -5,6 +5,7 @@ data:
   postgresDb: prim-r-db
   redisHost: 10.0.0.3
   redisPort: "6379"
+  springProfilesActive: staging
 kind: ConfigMap
 metadata:
   creationTimestamp: 2019-03-29T21:43:41Z
