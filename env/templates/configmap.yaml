@@ -5,6 +5,9 @@ data:
   postgresDb: prim-r-db
   redisHost: 10.0.0.3
   redisPort: "6379"
+  jobQueueKey: jobQueue
+  processingQueueKey: processingQueue
+  cacheName: primeNumberCache
   springProfilesActive: staging
 kind: ConfigMap
 metadata:
