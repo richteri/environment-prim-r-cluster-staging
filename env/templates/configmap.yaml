@@ -1,7 +1,7 @@
 apiVersion: v1
 data:
-  postgresHost: 10.127.144.3
-  postgresPort: "3307"
+  postgresHost: 35.198.100.214
+  postgresPort: "5432"
   postgresDb: prim-r-staging
   redisHost: 10.0.0.3
   redisPort: "6379"
